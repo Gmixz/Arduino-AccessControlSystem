@@ -23,5 +23,5 @@ Arduino port 5v – LCD VCC port and Fingerprint VCC port RFID VCC port
 Arduino port 3.3v – Servo Motor VCC port (Red wired)
 Arduino port 10REF - Blue Led positive leg
 Arduino Ground port – Buzzer left Leg, RFID ground port, LCD Ground
-port, Blue, Red, Green left leg in series with three 220 ohms resistors and
+port, Blue LED, Red LED, Green LED left leg in series with three 220 ohms resistors and
 Fingerprint Ground port Servo Motor Ground port (Black wired)
