@@ -1,0 +1,27 @@
+Assembly:Connect each part with jumper (wired)
+Arduino port 13 – RFID NSS port
+Arduino port 12 – RFID MOSI port
+Arduino port 11 – RFID SCK port
+Arduino port 10 – RFID IRQ port
+Arduino port 9 – RFID RST port
+Arduino port 8 – Servo Motor signal port (Yellow color wired)
+Arduino port 7 – Green Led positive leg
+Arduino port 6 – Red Led positive leg
+Arduino port 5 – Buzzer positive leg
+Arduino port 4 – Fingerprint RX port
+Arduino port 3 – Fingerprint TX port
+Arduino port 2 – Keypad ping 5
+Arduino port 1 – Keypad ping 6
+Arduino port 0 – Keypad ping 7
+Arduino port A5 – LCD SCL port
+Arduino port A4 – LCD SDA
+Arduino port A3 – Keypad ping 4
+Arduino port A2 – Keypad ping 3
+Arduino port A1 – Keypad ping 2
+Arduino port A0 – Keypad ping 1
+Arduino port 5v – LCD VCC port and Fingerprint VCC port RFID VCC port
+Arduino port 3.3v – Servo Motor VCC port (Red wired)
+Arduino port 10REF - Blue Led positive leg
+Arduino Ground port – Buzzer left Leg, RFID ground port, LCD Ground
+port, Blue, Red, Green left leg in series with three 220 ohms resistors and
+Fingerprint Ground port Servo Motor Ground port (Black wired)
